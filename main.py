@@ -1,0 +1,1 @@
+print('Just Git example!')
