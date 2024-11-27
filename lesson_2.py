@@ -1,3 +1,4 @@
+#Yandex
 def function():
     print('Hello world!')
 
