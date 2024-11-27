@@ -1,5 +1,5 @@
 def function():
-    print('Hello world!')
+    print('Привет МИР!!')
 
 def main():
     print('Второй урок Git.')
